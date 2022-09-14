@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+    text-align: center;
+}
+.websbite{
+    display: flex;
+    flex-direction: column;
+}
+
